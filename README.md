@@ -25,3 +25,6 @@ In conclusion, our Kanban board application has successfully addressed the chall
 Along with this here is the screen shot of our project 
 
 You can also evaluate the project by visiting ""
+
+![image](https://github.com/Painexe/Kanban_board/assets/139474563/250ffe74-fb58-4d9a-945d-39e285b49227)
+
